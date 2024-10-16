@@ -1,0 +1,1 @@
+web : gunicron animal.wsgi --log-file -
